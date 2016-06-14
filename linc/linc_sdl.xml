@@ -18,6 +18,7 @@
         <include name="${LINC_SDL_PATH}/lib/sdl/defines.xml" />
 
         <file name='${LINC_SDL_PATH}/linc/linc_sdl.cpp' />
+        <file name='${LINC_SDL_PATH}/linc/linc_sdl.h' />
 
     </files>
 

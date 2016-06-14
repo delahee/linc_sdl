@@ -1,0 +1,10 @@
+-main TestAudio.hx
+-cpp cpp
+-cp ..
+-cp .
+-debug
+-D windows
+-D HXCPP_M32
+
+-cmd cpp\TestAudio-debug.exe
+
